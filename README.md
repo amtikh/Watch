@@ -1,2 +1,2 @@
-https://amtikh.github.io/watch
+https://amtikh.github.io/Watch
 educational project
