@@ -1,2 +1,2 @@
-https://amtikh.github.io/rsschool-cv
+https://amtikh.github.io/watch
 educational project
